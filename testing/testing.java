@@ -1,5 +1,6 @@
 public class testing{
 	public static void main(String[] args){
-		System.out.println("it works");
+		int j = 0 +2;
+		//int i = 0;
 	}
 }
